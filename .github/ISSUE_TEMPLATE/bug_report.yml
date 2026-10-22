@@ -34,7 +34,6 @@ body:
       label: "Modloader:"
       options:
         - Forge
-        - NeoForge
     validations:
       required: true
 
