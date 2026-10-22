@@ -1,0 +1,280 @@
+{
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.credits": {
+    "sounds": []
+  },
+  "music.dragon": {
+    "sounds": []
+  },
+  "music.end": {
+    "sounds": []
+  },
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/vol1/beneath_the_ice",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol1/far_from_far",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol1/frostbite",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol1/glacial_desolation",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol1/no_shelter",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/alone",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/capra_horroris",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/forgotten_mines",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/frigidus",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/frozen_in_time",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/frozen_plains",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/frozen_ruins",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/gelum_cantus",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/miles_of_silence",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/silent_deer",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/the_frozen_ritual",
+        "stream": true
+      },
+      {
+        "name": "music/game/vol2/the_frozen_unknown",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/menu/tracks_in_the_snow_main_theme",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "sounds": []
+  },
+  "music.nether.crimson_forest": {
+    "sounds": []
+  },
+  "music.nether.nether_wastes": {
+    "sounds": []
+  },
+  "music.nether.soul_sand_valley": {
+    "sounds": []
+  },
+  "music.nether.warped_forest": {
+    "sounds": []
+  },
+  "music.overworld.badlands": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.desert": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.dripstone_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.flower_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.frozen_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.jagged_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.lush_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.meadow": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.old_growth_taiga": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.snowy_slopes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.sparse_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.stony_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.overworld.swamp": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]  },
+  "music.under_water": {
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "frigid_ost:item/disc_fragment_capra"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "frigid_ost:disc_fragment_capra"
+    }
+  },
+  "result": {
+    "item": "frigid_ost:music_disc_capra",
+    "count": 1
+  }
+}
