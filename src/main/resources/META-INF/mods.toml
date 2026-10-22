@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="All Rights Reserved"
-issueTrackerURL=""
+issueTrackerURL="https://github.com/MarbledHubb-Studios/Frigid-Original-Soundtrack/issues"
 
 [[mods]]
 modId="frigid_ost"
 version="1.2.0.0"
-displayName="Frigid Original Soundtracks"
-displayURL=""
+displayName="Frigid Original Soundtrack"
+displayURL="https://marbledhubb.com/projects/mods/frigid-original-soundtrack"
 logoFile="frigid-ost-icon.png"
 credits="MarbledHubb Studios"
 authors="MarbledNull, WereF0X, Aimiwi"
