@@ -16,7 +16,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, FrigidOST.MOD_ID);
 
     public static final RegistryObject<Item> DISC_FRAGMENT_CAPRA = ITEMS.register("disc_fragment_capra", () -> new DiscFragmentItem(new Item.Properties()));
-    public static final RegistryObject<Item> MUSIC_DISC_CAPRA = ITEMS.register("music_disc_capra", () -> new RecordItem(13, ModSoundEvents.MUSIC_DISC_CAPRA, (new Item.Properties()).stacksTo(1).rarity(Rarity.RARE), 3620));
+    public static final RegistryObject<Item> MUSIC_DISC_CAPRA = ITEMS.register("music_disc_capra", () -> new RecordItem(13, ModSoundEvents.MUSIC_DISC_CAPRA,new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 3620));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
